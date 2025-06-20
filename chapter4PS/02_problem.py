@@ -1,0 +1,16 @@
+score = []
+score1 = int(input("Enter the score of student1: "))
+score.append(score1)
+score2 = int(input("Enter the score of student2: "))
+score.append(score2)
+score3 = int(input("Enter the score of student3: "))
+score.append(score3)
+score4 = int(input("Enter the score of student4: "))
+score.append(score4)
+score5 = int(input("Enter the score of student5: "))
+score.append(score5)
+score6 = int(input("Enter the score of student6: "))
+score.append(score6)
+
+score.sort()
+print(score)
