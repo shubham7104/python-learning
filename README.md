@@ -15,8 +15,6 @@ This repo includes my practice code, theory notes, and YouTube video planning as
 
 ---
 
-## 🗂️ Folder Structure
-
 
 ---
 
