@@ -16,3 +16,7 @@ lang = input("Enter the language: ")
 d.update({name: lang})
 
 print(d)
+
+
+# final ans
+''' the most recent name's language will remanin and previous one will vansih 'coz we are using ".update" methods'''

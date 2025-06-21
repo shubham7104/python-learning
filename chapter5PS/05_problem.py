@@ -1,7 +1,7 @@
 '''s = {}
 What is the type of 's'?
 '''
-''' s = {} is a list not a set insted it is a "list" 
+''' s = {} is a list not a set insted it is a "dict" 
 BUT
     s = set() is a set. '''
 
