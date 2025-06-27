@@ -24,6 +24,4 @@ This repo helps me track my growth and stay consistent.
 - [ ] File Handling (coming soon)
 - [ ] Object-Oriented Python (planned)
 
-## 🔗 Connect With Me
-- GitHub: [Your GitHub username]
-- LinkedIn: [Your LinkedIn if available]
+
